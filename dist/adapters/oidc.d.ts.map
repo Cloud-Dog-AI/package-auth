@@ -1,0 +1,1 @@
+{"version":3,"file":"oidc.d.ts","sourceRoot":"","sources":["../../src/adapters/oidc.ts"],"names":[],"mappings":"AAgBA,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,SAAS,CAAC;AAC3C,OAAO,KAAK,EAAE,UAAU,EAA0B,MAAM,eAAe,CAAC;AAuBxE,wBAAgB,iBAAiB,CAAC,MAAM,EAAE,UAAU,GAAG,WAAW,CAgDjE"}
